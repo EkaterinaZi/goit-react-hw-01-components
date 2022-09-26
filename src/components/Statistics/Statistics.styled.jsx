@@ -6,11 +6,11 @@ margin-top: 20px;
 padding: 50px;
 background-color: #E8E8E8;
 box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;`
+
 export const Item = styled.li `display: flex;
 flex-direction: column;
 align-items: center;
 padding: 20px;
-background-color: RGB(177, 217, 255);
 `
 export const Title = styled.h2 `display: block;
 margin: 0;
